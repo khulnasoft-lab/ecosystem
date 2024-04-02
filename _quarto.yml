@@ -7,8 +7,8 @@ project:
     - "!assets/"
 
 website:
-  title: "Ivy Ecosystem"
-  favicon: "assets/img/ivy_logo_only.png"
+  title: "Startai Ecosystem"
+  favicon: "assets/img/startai_logo_only.png"
 
   page-navigation: true
 
@@ -16,13 +16,13 @@ website:
     title: false
     search: true
     pinned: true
-    logo: "assets/img/ivy_logo_text.png"
-    logo-href: https://unify.ai
+    logo: "assets/img/startai_logo_text.png"
+    logo-href: https://khulnasoft.com
     left:
       - text: "Github"
-        href: https://github.com/unifyai/ivy
+        href: https://github.com/khulnasoft/startai
       - text: "Docs"
-        href: https://unify.ai/docs/ivy
+        href: https://khulnasoft.com/docs/startai
       - text: "Discord"
         href: https://discord.com/invite/sXyFF8tDtm
 
@@ -35,24 +35,24 @@ website:
         href: index.qmd      
       - section: "Docs"
         contents:
-          - text: "Ivy"
-            href: https://unify.ai/docs/ivy
-          - text: "Ivy Mech"
-            href: https://unify.ai/docs/mech
-          - text: "Ivy Vision"
-            href: https://unify.ai/docs/vision
-          - text: "Ivy Robot"
-            href: https://unify.ai/docs/robot
-          - text: "Ivy Gym"
-            href: https://unify.ai/docs/gym
-          - text: "Ivy Memory"
-            href: https://unify.ai/docs/memory
-          - text: "Ivy Builder"
-            href: https://unify.ai/docs/builder
-          - text: "Ivy Models"
-            href: https://unify.ai/docs/models
-          - text: "Ivy Ecosystem"
-            href: https://unify.ai/docs/ecosystem
+          - text: "Startai"
+            href: https://khulnasoft.com/docs/startai
+          - text: "Startai Mech"
+            href: https://khulnasoft.com/docs/mech
+          - text: "Startai Vision"
+            href: https://khulnasoft.com/docs/vision
+          - text: "Startai Robot"
+            href: https://khulnasoft.com/docs/robot
+          - text: "Startai Gym"
+            href: https://khulnasoft.com/docs/gym
+          - text: "Startai Memory"
+            href: https://khulnasoft.com/docs/memory
+          - text: "Startai Builder"
+            href: https://khulnasoft.com/docs/builder
+          - text: "Startai Models"
+            href: https://khulnasoft.com/docs/models
+          - text: "Startai Ecosystem"
+            href: https://khulnasoft.com/docs/ecosystem
           
 
 format:
