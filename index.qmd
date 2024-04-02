@@ -1,15 +1,15 @@
-![](assets/img/ivy_logo.png)
+![](assets/img/startai_logo.png)
 
 ```{=html}
     <br/>
-    <a href="https://pypi.org/project/ivy-ecosystem">
-        <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://badge.fury.io/py/ivy-ecosystem.svg">
+    <a href="https://pypi.org/project/startai-ecosystem">
+        <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://badge.fury.io/py/startai-ecosystem.svg">
     </a>
-    <a href="https://github.com/unifyai/ecosystem/actions?query=workflow%3Adocs">
-        <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ecosystem/actions/workflows/docs.yml/badge.svg">
+    <a href="https://github.com/khulnasoft/ecosystem/actions?query=workflow%3Adocs">
+        <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/khulnasoft/ecosystem/actions/workflows/docs.yml/badge.svg">
     </a>
-    <a href="https://github.com/unifyai/ecosystem/actions?query=workflow%3Anightly-tests">
-        <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ecosystem/actions/workflows/nightly-tests.yml/badge.svg">
+    <a href="https://github.com/khulnasoft/ecosystem/actions?query=workflow%3Anightly-tests">
+        <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/khulnasoft/ecosystem/actions/workflows/nightly-tests.yml/badge.svg">
     </a>
     <a href="https://discord.gg/G4aR9Q7DTN">
         <img class="dark-light" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/discord/799879767196958751?color=blue&label=%20&logo=discord&logoColor=white">
@@ -17,164 +17,153 @@
     <br clear="all" />
 ```
 
-**Collection of Third-Part Libraries using Ivy to provide multi-framework support.**
+**Collection of Third-Part Libraries using Startai to provide multi-framework support.**
 
 ```{=html}
     <div style="display: block;" align="center">
-        <img class="dark-light" width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
+        <img class="dark-light" width="6%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/empty.png">
         <a href="https://jax.readthedocs.io">
-            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/jax_logo.png">
+            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/jax_logo.png">
         </a>
-        <img class="dark-light" width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
+        <img class="dark-light" width="12%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/empty.png">
         <a href="https://www.tensorflow.org">
-            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/tensorflow_logo.png">
+            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/tensorflow_logo.png">
         </a>
-        <img class="dark-light" width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
+        <img class="dark-light" width="12%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/empty.png">
         <a href="https://pytorch.org">
-            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/pytorch_logo.png">
+            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/pytorch_logo.png">
         </a>
-        <img class="dark-light" width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
+        <img class="dark-light" width="12%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/empty.png">
         <a href="https://numpy.org">
-            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/numpy_logo.png">
+            <img class="dark-light" width="13%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/numpy_logo.png">
         </a>
-        <img class="dark-light" width="6%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/supported/empty.png">
+        <img class="dark-light" width="6%" style="float: left;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/supported/empty.png">
     </div>
 ```
 
 **Coming Soon!**
 
 We are currently working with third-party library creators to give them multi-framework support with only a few lines
-of code changed; no need to convert everything to Ivy! More information coming soon!
+of code changed; no need to convert everything to Startai! More information coming soon!
 
-## Ivy Libraries
+## Startai Libraries
 
-There are a host of derived libraries written in Ivy, in the areas of mechanics, 3D vision, robotics, gym environments,
+There are a host of derived libraries written in Startai, in the areas of mechanics, 3D vision, robotics, gym environments,
 neural memory, pre-trained models + implementations, and builder tools with trainers, data loaders and more. Click on the icons below to learn more!
 
 ```{=html}
     <div style="display: block;">
-        <a href="https://github.com/unifyai/mech">
+        <a href="https://github.com/khulnasoft/mech">
             <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_mech_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_mech.png">
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_mech_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_mech.png">
             </picture>
         </a>
-        <a href="https://github.com/unifyai/vision">
+        <a href="https://github.com/khulnasoft/vision">
             <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_vision_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_vision.png">
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_vision_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_vision.png">
             </picture>
         </a>
-        <a href="https://github.com/unifyai/robot">
+        <a href="https://github.com/khulnasoft/robot">
             <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_robot_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_robot.png">
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_robot_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_robot.png">
             </picture>
         </a>
-        <a href="https://github.com/unifyai/gym">
+        <a href="https://github.com/khulnasoft/gym">
             <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_gym_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_gym.png">
-            </picture>
-        </a>
-
-        <br clear="all" />
-
-        <a href="https://pypi.org/project/ivy-mech">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-mech.svg">
-        </a>
-        <a href="https://pypi.org/project/ivy-vision">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-vision.svg">
-        </a>
-        <a href="https://pypi.org/project/ivy-robot">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-robot.svg">
-        </a>
-        <a href="https://pypi.org/project/ivy-gym">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;"width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-gym.svg">
-        </a>
-
-        <br clear="all" />
-
-        <a href="https://github.com/unifyai/mech/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;"src="https://github.com/unifyai/mech/actions/workflows/nightly-tests.yml/badge.svg">
-        </a>
-        <a href="https://github.com/unifyai/vision/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/vision/actions/workflows/nightly-tests.yml/badge.svg">
-        </a>
-        <a href="https://github.com/unifyai/robot/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/robot/actions/workflows/nightly-tests.yml/badge.svg">
-        </a>
-        <a href="https://github.com/unifyai/gym/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/gym/actions/workflows/nightly-tests.yml/badge.svg">
-        </a>
-
-        <br clear="all" />
-
-        <a href="https://github.com/unifyai/memory">
-            <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_memory_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_memory.png">
-            </picture>
-        </a>
-        <a href="https://github.com/unifyai/builder">
-            <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_builder_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_builder.png">
-            </picture>
-        </a>
-        <a href="https://github.com/unifyai/models">
-            <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_models_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_models.png">
-            </picture>
-        </a>
-        <a href="https://github.com/unifyai/ecosystem">
-            <picture>
-                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_ecosystem_dark.png">
-                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/main/img/externally_linked/logos/ivy_ecosystem.png">
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_gym_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_gym.png">
             </picture>
         </a>
 
         <br clear="all" />
 
-        <a href="https://pypi.org/project/ivy-memory">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-memory.svg">
+        <a href="https://pypi.org/project/startai-mech">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-mech.svg">
         </a>
-        <a href="https://pypi.org/project/ivy-builder">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-builder.svg">
+        <a href="https://pypi.org/project/startai-vision">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-vision.svg">
         </a>
-        <a href="https://pypi.org/project/ivy-models">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/ivy-models.svg">
+        <a href="https://pypi.org/project/startai-robot">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-robot.svg">
         </a>
-        <a href="https://github.com/unifyai/ecosystem/actions?query=workflow%3Adocs">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/ecosystem/actions/workflows/docs.yml/badge.svg">
+        <a href="https://pypi.org/project/startai-gym">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;"width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-gym.svg">
         </a>
 
         <br clear="all" />
 
-        <a href="https://github.com/unifyai/memory/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/memory/actions/workflows/nightly-tests.yml/badge.svg">
+        <a href="https://github.com/khulnasoft/mech/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;"src="https://github.com/khulnasoft/mech/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
-        <a href="https://github.com/unifyai/builder/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/builder/actions/workflows/nightly-tests.yml/badge.svg">
+        <a href="https://github.com/khulnasoft/vision/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/vision/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
-        <a href="https://github.com/unifyai/models/actions?query=workflow%3Anightly-tests">
-            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/unifyai/models/actions/workflows/nightly-tests.yml/badge.svg">
+        <a href="https://github.com/khulnasoft/robot/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/robot/actions/workflows/nightly-tests.yml/badge.svg">
+        </a>
+        <a href="https://github.com/khulnasoft/gym/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/gym/actions/workflows/nightly-tests.yml/badge.svg">
+        </a>
+
+        <br clear="all" />
+
+        <a href="https://github.com/khulnasoft/memory">
+            <picture>
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_memory_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_memory.png">
+            </picture>
+        </a>
+        <a href="https://github.com/khulnasoft/builder">
+            <picture>
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_builder_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_builder.png">
+            </picture>
+        </a>
+        <a href="https://github.com/khulnasoft/models">
+            <picture>
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_models_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_models.png">
+            </picture>
+        </a>
+        <a href="https://github.com/khulnasoft/ecosystem">
+            <picture>
+                <source class="dark-light" width="15%" style="float: left; margin: 0% 5%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_ecosystem_dark.png">
+                <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://raw.githubusercontent.com/khulnasoft/khulnasoft.github.io/main/img/externally_linked/logos/startai_ecosystem.png">
+            </picture>
+        </a>
+
+        <br clear="all" />
+
+        <a href="https://pypi.org/project/startai-memory">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-memory.svg">
+        </a>
+        <a href="https://pypi.org/project/startai-builder">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-builder.svg">
+        </a>
+        <a href="https://pypi.org/project/startai-models">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://badge.fury.io/py/startai-models.svg">
+        </a>
+        <a href="https://github.com/khulnasoft/ecosystem/actions?query=workflow%3Adocs">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/ecosystem/actions/workflows/docs.yml/badge.svg">
+        </a>
+
+        <br clear="all" />
+
+        <a href="https://github.com/khulnasoft/memory/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/memory/actions/workflows/nightly-tests.yml/badge.svg">
+        </a>
+        <a href="https://github.com/khulnasoft/builder/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/builder/actions/workflows/nightly-tests.yml/badge.svg">
+        </a>
+        <a href="https://github.com/khulnasoft/models/actions?query=workflow%3Anightly-tests">
+            <img class="dark-light" width="15%" style="float: left; margin: 0% 5%;" src="https://github.com/khulnasoft/models/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
 
         <br clear="all" />
 
     </div>
     <br clear="all" />
-```
-
-## Citation
-
-```
-    @article{lenton2021ivy,
-      title={Ivy: Templated deep learning for inter-framework portability},
-      author={Lenton, Daniel and Pardo, Fabio and Falck, Fabian and James, Stephen and Clark, Ronald},
-      journal={arXiv preprint arXiv:2102.02886},
-      year={2021}
-    }
 ```
