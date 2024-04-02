@@ -37,7 +37,7 @@ jobs:
       contents: write
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -73,7 +73,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags')
     steps:
       - name: Check out repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -108,7 +108,7 @@ jobs:
     needs: publish-release-docs
     steps:
       - name: Checkout 🛎️ Docs
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: unifyai/docs
           ssh-key: ${{ secrets.SSH_GH_PAGES }}
