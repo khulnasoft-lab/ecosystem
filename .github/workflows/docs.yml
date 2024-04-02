@@ -61,9 +61,9 @@ jobs:
           target-folder: "${{ github.event.repository.name }}"
           ssh-key: ${{ secrets.SSH_GH_PAGES }}
           branch: main
-          git-config-name: ivy-seed
-          git-config-email: ivydl.team@gmail.com
-          repository-name: unifyai/docs
+          git-config-name: startai-seed
+          git-config-email: startaidl.team@gmail.com
+          repository-name: khulnasoft/docs
           clean: true
 
   publish-release-docs:
@@ -97,9 +97,9 @@ jobs:
           target-folder: "${{ github.ref_name != 'dev' && format('{0}/', github.ref_name) || '' }}${{ github.event.repository.name }}"
           ssh-key: ${{ secrets.SSH_GH_PAGES }}
           branch: main
-          git-config-name: ivy-seed
-          git-config-email: ivydl.team@gmail.com
-          repository-name: unifyai/docs
+          git-config-name: startai-seed
+          git-config-email: startaidl.team@gmail.com
+          repository-name: khulnasoft/docs
           clean: true
 
   update-versions:
@@ -110,7 +110,7 @@ jobs:
       - name: Checkout 🛎️ Docs
         uses: actions/checkout@v3
         with:
-          repository: unifyai/docs
+          repository: khulnasoft/docs
           ssh-key: ${{ secrets.SSH_GH_PAGES }}
 
       - name: Setup Python
@@ -124,8 +124,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config --global user.email "ivydl.team@gmail.com"
-          git config --global user.name "ivy-seed"
+          git config --global user.email "startaidl.team@gmail.com"
+          git config --global user.name "startai-seed"
           git add versions/
           git commit -m "Add ${{ github.ref_name }} to ${{ github.event.repository.name }}.json"
           git push
